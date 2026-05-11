@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storyboard Video Previs"
+  short_description: "Turn stories into cinematic storyboard prompts"
+  default_prompt: "Use $storyboard-video-previs to turn this story into a cinematic video storyboard prompt."
